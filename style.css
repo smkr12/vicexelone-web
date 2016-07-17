@@ -1,0 +1,76 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: Myriad Pro, Arial;
+  margin: 0px 0px 0px 0px;
+}
+p.header{
+  padding-top: 13px;
+  font-size: 35px;
+  margin: 0px;
+}
+.title{
+  padding-top: 4px;
+  width:100%;
+  height: 60px;
+  border-top: 1px solid #a1a1a1;
+  border-bottom: 1px solid #a1a1a1;
+}
+.iliat{
+  width:144px;
+}
+.logo{
+  display: inline-block;
+  margin-left: 105px;
+  width:144px;
+  padding-top: 6px;
+}
+div.header{
+  text-align: center;
+  margin-left: 150px;
+  vertical-align: top;
+  display:inline-block;
+  width:500px;
+  height:56px;
+}
+div.btn{
+  padding: 3.5px 0px 6.5px 150px;
+  vertical-align: top;
+  display:inline-block;
+  width:400px;
+  height:56px;
+}
+button.register_now{
+  color:white;
+  background-color: #5098cf;
+  font-size: 18px;
+  border-radius: 7px;
+  border:none;
+  width:200px;
+  height:46px;
+}
+button:hover{
+  cursor:pointer;
+}
+button:focus{
+  outline: 0px none;
+}
+div.body {
+  width:100%;
+}
+div.banner{
+  width:100%;
+  height:716px;
+  background-image:url('images/Get_out_there.jpg');
+}
+button.btn_banner{
+  margin: 28% 0% 0% 43%;
+  color:white;
+  background-color: #5098cf;
+  font-size: 22px;
+  border-radius: 7px;
+  border:none;
+  width:260px;
+  height:66px;
+}
