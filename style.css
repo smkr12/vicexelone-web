@@ -1,0 +1,191 @@
+*{
+  box-sizing: border-box;
+}
+
+@font-face {
+    font-family: SAB;
+    src: url(libs/font-awesome/fonts/SVN-Agency-FB.ttf);
+}
+
+@font-face {
+    font-family: SABB;
+    src: url(libs/font-awesome/fonts/SVN-Agency-FB-bold.ttf);
+}
+
+div{
+  display: inline-block;
+}
+
+.container{
+  width: 100%auto;
+  height: 56px;
+  border-bottom: 1px;
+}
+img.iliat{
+  margin-left: 60px;
+  width: 150px;
+}
+
+.menu{
+  width: 500px;
+  height: 30px;
+  vertical-align: top;
+  text-align: center;
+  margin-left: 400px;
+
+}
+ p.header{
+   padding: 0px 20px 0px 20px;
+   display: inline-block;
+   font-family: Myriad Pro, Arial;
+   font-size: 20px;
+   color: gray;
+
+ }
+ span{
+   display: inline-block;
+ }
+ p.name{
+   display: inline-block;
+ }
+body{
+  margin: 0px 0px 0px 0px;
+}
+
+img.toibuocra{
+  width: 100%;
+}
+
+
+
+.abcxyz{
+  font-family: SABB ;
+  font-size: 50px;
+  text-align: center;
+}
+
+.khoahoc{
+  margin-left: 250px;
+}
+
+.students{
+  border-right: 1px solid #807b7b;
+  padding-right: 50px;
+  padding: 25px;
+}
+
+.thuytrang{
+  color: black;
+  font-family: Myriad Pro, Arial;
+  font-size: 20px;
+}
+
+.point{
+  font-family: Myriad Pro, Arial;
+  font-size: 20px;
+  color: gray;
+}
+
+.abc{
+  font-family: Myriad Pro, Arial;
+  font-size: 15px;
+  color: gray;
+}
+
+.fa-stack1{
+    color:yellow;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: orange;
+}
+
+.blue{
+  font-family: SABB;
+  color: #00a1ed;
+  font-size: 20px;
+  text-align: none;
+}
+
+.gray{
+  font-family: SABB;
+  font-family: Arial;
+  color: gray;
+  font-size: 15px;
+  text-align: none;
+}
+
+.bluee{
+  color: #00a1ed;
+  font-size:  15px;
+  text-align: none;
+}
+
+.think{
+  display: inline-block;
+  margin-left: 100px;
+}
+
+
+.star{
+  font-size:15px;
+  text-align: none;
+}
+.students{
+  width: 45%;
+  display: inline-block;
+  text-align: right;
+  text-align: none;
+}
+
+.showoff{
+  width: 30%;
+  display: inline-block;
+  margin-right: 10px;
+  text-align: none;
+}
+
+.trontron{
+  margin-left: 625px;
+}
+/*footer{
+  background-image: url("images/footer.jpg");
+  height: 180px;
+  padding-left: 0px 20px 0px 20px;
+}
+
+img.foot{
+  width: 150px;
+}
+
+.thang1{
+  float: left;
+  color: gray;
+  font-family: Myriad Pro, Arial;
+}
+
+p.id{
+  padding: 0px;
+}
+
+.thang2{
+  float: left;
+  color: gray;
+  font-family: Myriad Pro, Arial;
+}
+
+.thang3{
+  float: left;
+  color: gray;
+  font-family: Myriad Pro, Arial;
+}
+
+p.BB{
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 25px;
+}
+
+.thang5{
+  float: left;
+  color: gray;
+  font-family: Myriad Pro, Arial;
+}*/
