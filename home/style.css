@@ -4,12 +4,12 @@
 
 @font-face {
     font-family: SAB;
-    src: url(libs/font-awesome/fonts/SVN-Agency-FB.ttf);
+    src: url(../libs/font-awesome/fonts/SVN-Agency-FB.ttf);
 }
 
 @font-face {
     font-family: SABB;
-    src: url(libs/font-awesome/fonts/SVN-Agency-FB-bold.ttf);
+    src: url(../libs/font-awesome/fonts/SVN-Agency-FB-bold.ttf);
 }
 
 div{

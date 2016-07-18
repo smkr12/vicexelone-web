@@ -1,0 +1,209 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: Myriad Pro, Arial;
+  margin: 0px 0px 0px 0px;
+}
+h1{
+  margin: 0px 0px 0px 0px;
+  font-size: 65px;
+  font-weight: lighter;
+}
+p{
+  margin:0px 0px 0px 0px;
+}
+p.slogan{
+  margin:5px 0px 0px 0px;
+  font-size: 24px;
+}
+p.header{
+  padding-top: 13px;
+  font-size: 35px;
+  margin: 0px;
+}
+p.info{
+  font-size: 18px;
+  margin:0px 0px 0px 20px;
+  width:80%;
+  vertical-align: top;
+  display:inline-block;
+}
+div.body .title .banner .body_1{
+  width:100%;
+}
+div.title{
+  padding-top: 4px;
+  height: 60px;
+  border-top: 1px solid #a1a1a1;
+  border-bottom: 1px solid #a1a1a1;
+}
+.iliat{
+  width:144px;
+}
+.logo{
+  display: inline-block;
+  margin-left: 105px;
+  width:144px;
+  padding-top: 6px;
+}
+div.header{
+  text-align: center;
+  margin-left: 150px;
+  vertical-align: top;
+  display:inline-block;
+  width:500px;
+  height:56px;
+}
+div.btn{
+  padding: 3.5px 0px 6.5px 150px;
+  vertical-align: top;
+  display:inline-block;
+  width:400px;
+  height:56px;
+}
+button.register_now{
+  color:white;
+  background-color: #5098cf;
+  font-size: 18px;
+  border-radius: 7px;
+  border:none;
+  width:200px;
+  height:46px;
+}
+button:hover{
+  cursor:pointer;
+}
+button:focus{
+  outline: 0px none;
+}
+div.banner{
+  height:716px;
+  background-image:url('../images/Get_out_there.jpg');
+}
+button.btn_banner{
+  margin: 365px 0px 0px 580px;
+  color:white;
+  background-color: #5098cf;
+  font-size: 22px;
+  border-radius: 7px;
+  border:none;
+  width:260px;
+  height:66px;
+}
+button.show_down{
+  margin-top: 230px;
+  margin-left: 660px;
+  background-color: white;
+  border:none;
+}
+div.body_1{
+  padding-top: 2%;
+  padding-left: 30%;
+}
+div.body_2{
+  padding-top: 3%;
+  padding-left: 30%;
+  background-color: #e6e6e6;
+}
+div.body_include{
+  margin-top: 20px;
+}
+div.group2{
+  margin-bottom:20px;
+}
+div.group2{
+  margin-bottom:20px;
+}
+div.group2{
+  margin-bottom:20px;
+}
+img.teacher{
+  width:280px;
+  margin:0px 0px 0px 0px;
+  border: 5px solid #95bcda;
+  border-radius: 100%;
+}
+h2.name{
+  font-weight: lighter;
+  text-align: center;
+  font-size:24px;
+}
+h2.title{
+  font-family: arial;
+  margin: 20px 0px 0px 0px;
+  font-size: 30px;
+  text-align: center;
+  color:#5098cf;
+}
+p.bio{
+  color: #c0c0c0;
+  font-size: 18px;
+}
+div.group{
+  margin-right:20px;
+  vertical-align: top;
+  display: inline-block;
+  width:280px;
+}
+button.show_schedule{
+  vertical-align: top;
+  margin: 5px 0px 0px 70px;
+  border:0px;
+  background-color:rgba(255, 255, 255, 0.0);
+}
+div.schedule{
+  margin-top: 40px;
+}
+.body_1_2{
+  margin-top: 30px;
+}
+div.group3{
+  text-align: center;
+  margin-right: 30px;
+  width: 181px;
+  vertical-align: top;
+  display: inline-block;
+}
+p.question{
+  margin: 20px 0px 0px 0px;
+}
+.groupplus{
+  border: 5px solid #5098cf;
+  border-radius: 18px;
+  background-color: white;
+}
+div.bio{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+span.bio{
+  margin: 10px 0px 0px 0px;
+  display: inline-block;;
+}
+div.register{
+  margin-top: 10px;
+  padding-top: 17px;
+  text-align: center;
+  font-weight: bold;
+  background-color: #5098cf;
+  font-size: 25px;
+  color:white;
+  height:55px;
+}
+h3{
+  font-size: 32px;
+  margin: 20px 0px 0px 0px;
+}
+button.scholarship{
+  font-size: 24px;
+  width: 380px;
+  margin-right: 50px;
+}
+button.noscholarship{
+  color:black;
+  font-size: 18px;
+  vertical-align: top;
+  border:3px solid #4d4d4d;
+  background-color: white;
+}
